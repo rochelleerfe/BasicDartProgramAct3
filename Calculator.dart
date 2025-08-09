@@ -21,8 +21,6 @@ void main() {
   print('Subtraction: $num1 - $num2 = ${subtract()}');
   print('Multiplication: $num1 * $num2 = ${multiply()}');
 }
-
-
 // Expected output
 // Any numbers can be calculated
 
@@ -33,7 +31,5 @@ void main() {
 
 // Addition: 8 + 72 = 80
 // Division: 8 / 72 = 0.1111111111111111
-
 // Subtraction: 8 - 72 = -64
 // Multiplication: 8 * 72 = 576
-
